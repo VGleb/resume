@@ -19,10 +19,11 @@ Kazan National Research Technical University named after A.N.Tupolev - KAI (KNRT
     - support frontend (AngularJS)
     - many different integrations
     - Docker
-  - OfficeFreedom
+  - OfficeFreedom — online service to office booking
     - architecture and business logic
     - API (Ruby On Rails 5)
     - Custom SPA CMS (Ruby On Rails 5)
+    - Docker
 
 - mychina.org _(10.2015 - 01.2016)_
   - legacy corporate website (PHP 5.5)
