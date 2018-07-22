@@ -1,29 +1,44 @@
-# Gleb Voronov, Backend Developer
+# Gleb Voronov, Lead Backend Developer
 
 ## Education:
 Kazan National Research Technical University named after A.N.Tupolev - KAI (KNRTU-KAI), 2008–2012, Computer Science and Technologies
 
 ## Skills:
 - Programming languages: `Ruby`, `PHP`, `JavaScript`, `C#`
-- Frameworks: `Ruby on Rails`, `Grape`, `AngularJS`, `Laravel`, `YII`
-- DB: `PostgreSQL`, `MySQL`, `Redis`, `Memcached`
+- Frameworks: `Ruby on Rails`, `Grape`, `AngularJS`, `ReactJS`, `Laravel`, `YII`
+- DB: `PostgreSQL`, `MySQL`, `Redis`, `Memcached`, `MongoDB`, `Elasticsearch`
 - Technologies: `Docker`, `Nginx`
 - OS: `Mac OS`, `Linux`, `Windows`
 - VCS: `git`
 
 ## Experience:
 
-- Headmade _(02.2016 - now)_
+- Runtime LLC _(02.2017 - 07.2018)_
+  - marketplace of hand made goods [handmade.ru](https://handmade.ru/)
+    - tech lead
+    - architecture design from the first line of code
+    - technology selection
+    - integration with 3rd-party services
+    - development of business requirements for the product
+
+- JetThoughts _(01.2017 - 02.2017)_
+  - internal services of Faria Education Group
+    - support
+    - refactoring
+    - a lot of tests
+    - solving problems with CI
+
+- Headmade _(02.2016 - 12.2016)_
   - part of the system for city services
-    - backend (Ruby On Rails 4.2)
+    - full backend (Ruby On Rails 4.2)
     - support frontend (AngularJS)
-    - many different integrations
-    - Docker
+    - a lot of various integrations
+    - building a deploy on Docker
   - OfficeFreedom — online service to office booking
     - architecture and business logic
-    - API (Ruby On Rails 5)
-    - Custom SPA CMS (Ruby On Rails 5)
-    - Docker
+    - pure API (Ruby On Rails 5)
+    - custom SPA CMS (Ruby On Rails 5)
+    - building a deploy on Docker
 
 - mychina.org _(10.2015 - 01.2016)_
   - legacy corporate website (PHP 5.5)
