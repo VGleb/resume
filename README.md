@@ -1,5 +1,7 @@
 # Gleb Voronov, Lead Backend Developer
 
+[link to actual info](https://moikrug.ru/h0ney) [RUS]
+
 ## Education:
 Kazan National Research Technical University named after A.N.Tupolev - KAI (KNRTU-KAI), 2008–2012, Computer Science and Technologies
 
